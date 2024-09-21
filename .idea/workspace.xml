@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bc849c9-f475-47d8-9d5f-d83b7e7c200b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/BrowserActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/UIActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AddedToCartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ItemDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PageHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/SearchResultPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/TodayDealsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Scenario1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Scenario2.java" afterDir="false" />
+    <list default="true" id="4bc849c9-f475-47d8-9d5f-d83b7e7c200b" name="Changes" comment="add task1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +105,21 @@
       <option name="presentableId" value="Default" />
       <updated>1726845552857</updated>
     </task>
+    <task id="LOCAL-00001" summary="add task1">
+      <created>1726926981590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726926981590</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add task1">
+      <created>1726927184692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726927184692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,5 +132,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add task1" />
   </component>
 </project>
